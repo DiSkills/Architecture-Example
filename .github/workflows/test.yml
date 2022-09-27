@@ -20,6 +20,8 @@ jobs:
         uses: actions/setup-python@v3
         with:
           python-version: ${{ matrix.python-version }}
+        env:
+          AGENT_TOOLSDIRECTORY: /opt/hostedtoolache
 
       - name: Install Dependencies
         run: make install
