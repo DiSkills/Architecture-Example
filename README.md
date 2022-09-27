@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/python-3.10.6-brightgreen" alt="Python version"/>
 </a>
 
-<a>
+<a href="https://github.com/DiSkills/Architecture-Example/blob/master/LICENSE" target="_blank">
     <img src="https://img.shields.io/github/license/DiSkills/Architecture-Example" alt="LICENSE"/>
 </a>
 
